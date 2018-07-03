@@ -6,16 +6,16 @@ This repository contains our systems' outputs for CoNLL-2014 and JFLEG test set.
 The repository is organized as follows:
 
     .
-	©À©¤©¤ system_outputs
-	©¦	©À©¤©¤ conll      # system outputs on CoNLL-2014 test set
-	©¦	©¦   ©À©¤©¤ conll_base.txt	# base convolutional seq2seq model's outputs
-	©¦	©¦	©À©¤©¤ conll_fb_learning.txt	# base + fluency boost learning
-	©¦	©¦   ©¸©¤©¤ conll_fb.txt	# base + fluency boost learning and inference
-	©¦	©¸©¤©¤ jfleg      # system outputs on JFLEG test set
-	©¦	    ©À©¤©¤ jfleg_base.txt	# base convolutional seq2seq model's outputs
-	©¦		©À©¤©¤ jfleg_fb_learning.txt	# base + fluency boost learning
-	©¦	    ©¸©¤©¤ jfleg_fb.txt	# base + fluency boost learning and inference
-	©¸©¤©¤ README.md
+	â”œâ”€â”€ system_outputs
+	â”‚	â”œâ”€â”€ conll      # system outputs on CoNLL-2014 test set
+	â”‚	â”‚   â”œâ”€â”€ conll_base.txt	# base convolutional seq2seq model's outputs
+	â”‚	â”‚	â”œâ”€â”€ conll_fb_learning.txt	# base + fluency boost learning
+	â”‚	â”‚   â””â”€â”€ conll_fb.txt	# base + fluency boost learning and inference
+	â”‚	â””â”€â”€ jfleg      # system outputs on JFLEG test set
+	â”‚	    â”œâ”€â”€ jfleg_base.txt	# base convolutional seq2seq model's outputs
+	â”‚		â”œâ”€â”€ jfleg_fb_learning.txt	# base + fluency boost learning
+	â”‚	    â””â”€â”€ jfleg_fb.txt	# base + fluency boost learning and inference
+	â””â”€â”€ README.md
 	
 	
 Performance
