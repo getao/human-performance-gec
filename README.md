@@ -9,11 +9,11 @@ The repository is organized as follows:
 	├── system_outputs
 	│	├── conll      # system outputs on CoNLL-2014 test set
 	│	│   ├── conll_base.txt	# base convolutional seq2seq model's outputs
-	│	│	├── conll_fb_learning.txt	# base + fluency boost learning
+	│	│   ├── conll_fb_learning.txt	# base + fluency boost learning
 	│	│   └── conll_fb.txt	# base + fluency boost learning and inference
 	│	└── jfleg      # system outputs on JFLEG test set
 	│	    ├── jfleg_base.txt	# base convolutional seq2seq model's outputs
-	│		├── jfleg_fb_learning.txt	# base + fluency boost learning
+	│	    ├── jfleg_fb_learning.txt	# base + fluency boost learning
 	│	    └── jfleg_fb.txt	# base + fluency boost learning and inference
 	└── README.md
 	
