@@ -29,6 +29,8 @@ The repository is organized as follows:
 |Base + FB learning and inference | 60.00 | 75.72 | **74.84** | **62.42** |
 |Human Peformance|  - | - | 72.58 | 62.37 |
 
+The results in the CoNLL and JFLEG are Max-match F_{0.5} and GLEU score respectively.
+
 # Reference
 
 Please refer to the following paper if you want to use/study the results:
