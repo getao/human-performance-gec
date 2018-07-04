@@ -8,13 +8,13 @@ The repository is organized as follows:
     .
 	├── system_outputs
 	│	├── conll      # system outputs on CoNLL-2014 test set
-	│	│   ├── conll_base.txt	# base convolutional seq2seq model's outputs
-	│	│   ├── conll_fb_learning.txt	# base + fluency boost learning
-	│	│   └── conll_fb.txt	# base + fluency boost learning and inference
+	│	│   ├── conll_base.txt	# outputs of the base convolutional seq2seq model
+	│	│   ├── conll_fb_learning.txt	# outputs of base + fluency boost learning
+	│	│   └── conll_fb.txt	# outputs of base + fluency boost learning and inference
 	│	└── jfleg      # system outputs on JFLEG test set
-	│	    ├── jfleg_base.txt	# base convolutional seq2seq model's outputs
-	│	    ├── jfleg_fb_learning.txt	# base + fluency boost learning
-	│	    └── jfleg_fb.txt	# base + fluency boost learning and inference
+	│	    ├── jfleg_base.txt	# outputs of base convolutional seq2seq model
+	│	    ├── jfleg_fb_learning.txt	# outputs of base + fluency boost learning
+	│	    └── jfleg_fb.txt	# outputs of base + fluency boost learning and inference
 	└── README.md
 	
 	
@@ -30,4 +30,4 @@ Performance
 
 Please refer to the following paper if you want to use/study the results:
 
-Tao Ge, Furu Wei, Ming Zhou: Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study. arxiv.org
+Tao Ge, Furu Wei, Ming Zhou: Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study. https://arxiv.org/abs/1807.01270
